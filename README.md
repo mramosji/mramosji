@@ -24,7 +24,7 @@
 <li>🤠 My Pronouns are he/him. </li>
 <li>📚 I have a degree in Physics and a Master's degree in Particle Physics and Astrophysics. </li>
 <li>💼 Currently, I am working in BISITE Research Group as a Data Scientist and AI Researcher. </li>
-<li>📫 Contact me at <a href="mailto:manuelramosji@gmail.com">armcospa@gmail.com</a> </li>
+<li>📫 Contact me at <a href="mailto:manuelramosji@gmail.com">manuelramosji@gmail.com</a> </li>
 <hr/>
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <div>
