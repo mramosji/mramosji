@@ -11,7 +11,7 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVvM2F6YWU1ZXB1aXc1cXdqdTN0MTUwbmEwYTY4cHI0ZWJtY3RnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gqpbPkh4D1RuzLwM08/giphy.gif" width="500"/>
   <div id="badges">
-  <a href=https://www.linkedin.com/in/manuel-ramos-jim%C3%A9nez-36b220236/">
+  <a href=https://www.linkedin.com/in/manuel-ramos-jim%C3%A9nez-36b220236/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
